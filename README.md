@@ -14,8 +14,3 @@ I am a Bsc. CSIT student at St. Xavier's College<br>I am looking to build a care
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://komarev.com/ghpvc/?username=tamang-raj&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
